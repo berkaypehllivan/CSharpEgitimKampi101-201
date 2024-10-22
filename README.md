@@ -1,27 +1,27 @@
-# 🚀 C# EĞİTİM KAMPI PROJELERİ
+# C# BOOTCAMP
 
-Bu repo, Murat Yücedağ'ın eğitimlerinde gerçekleştirilen C# Eğitim Kampı süresince yapılan projeleri içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama amacıyla oluşturulmuş oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+** This repository is progressing through the C# Bootcamp published by Murat Yücedağ on Youtube. You can take a look the details covered in each section at the bottom.
 
-## ✨ Proje 1: Merhaba Dünya!
-Bu projede, konsola yazı yazdırmayı öğrendim. `Console.WriteLine()` komutu ile basit bir C# programının yapısını kavradım. 🟢
+## 📌 Episode 1: Hello World
+First console prints. string and int variables. 🌱
 
-## ✨ Proje 2: Değişkenler
-Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullandığım değişkenler üzerinde işlemler yapmayı denedim. 🧊
+## 📌 Episode 2: Variables
+It was observed that a value entered into console and assigned to a variable. Besides string and int variables, double and char variables were also learned. 🌱
 
-## ✨ Proje 3: Diziler (Arrays)
-Bu projede, diziler ile nasıl çalışacağımı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. ✴️
+## 📌 Episode 3: Desicions (If Else)
+I learned if else and switch case desicions and making 2 basic practices. 🌱
 
-## ✨ Proje 4: Karar Yapıları (If-Else)
-Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. 🦉
+## 📌 Episode 4: Loops
+I learned the working logic of for and while loops and how they can be used in which situations. 🌱
 
-## ✨ Proje 5: Döngüler (Loops)
-Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 💾
+## 📌 Episode 5: Practice for loops
+Practiced for and while loops with a making triangular objects with stars. 🌲
 
-## ✨ Proje 6: Metotlar (Methods)
-Bu projede kodları daha düzenli hale getirmek için metotlar kullanarak tekrarlı kodları minimize ettim. 🛠️
+## 📌 Episode 6: Arrays
+I learned create any variable as array and define variables inside them. Print these arrays for a list or select any value inside of array. 🌱
 
-## ✨ Proje 7: Foreach Döngüsü ve Sınav Sistemi
-Foreach döngüsü ile dizi ve koleksiyonlar üzerinde daha etkili işlem yapmayı öğrendim. Ayrıca basit bir sınav sistemi tasarladım. 🎯
+## 📌 Episode 7: Foreach Loops
+I learned foreach loop and practice with different applications. And a project was developed that takes the number of students in the class, takes the names of the students, then take their 3 exam grades and calculates the average of these grades and finally prints the student has passed or failed this lesson. This project includes all syntax topics inside them. 🌳
 
-## ✨ Proje 8: Geriye Değer Döndüren Fonksiyonlar
-Bu projede, geriye değer döndüren fonksiyonlarla nasıl çalışılacağını ve bu fonksiyonlarla daha dinamik işlemler yapmayı denedim. 🔁
+## 📌 Episode 8: Methods
+I learned how to create and use void methods(which don't return any value) and methods that can return variables of any type such as string, int, bool, etc... 🌱
