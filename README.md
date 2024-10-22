@@ -1,17 +1,27 @@
------ Murat Yücedağ C# Bootcamp -----
+# 🚀 C# EĞİTİM KAMPI PROJELERİ
 
-Episode 1 -> First console prints. string and int variables.
+Bu repo, Murat Yücedağ'ın eğitimlerinde gerçekleştirilen C# Eğitim Kampı süresince yapılan projeleri içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama amacıyla oluşturulmuş oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
 
-Episode 2 -> It was observed that a value entered into console and assigned to a variable. Besides string and int variables, double and char variables were also learned.
+## ✨ Proje 1: Merhaba Dünya!
+Bu projede, konsola yazı yazdırmayı öğrendim. `Console.WriteLine()` komutu ile basit bir C# programının yapısını kavradım. 🟢
 
-Episode 3 -> I learned if else and switch case desicions and making 2 basic practices.
+## ✨ Proje 2: Değişkenler
+Bu projede int, string, double gibi farklı veri türlerinde değişkenler tanımlamayı ve kullandığım değişkenler üzerinde işlemler yapmayı denedim. 🧊
 
-Episode 4 & 5 -> I learned for and while loops. Practiced making triangular objects with stars.
+## ✨ Proje 3: Diziler (Arrays)
+Bu projede, diziler ile nasıl çalışacağımı öğrendim. Birden fazla değeri bir dizi içinde nasıl depolayabileceğimi ve döngülerle bu değerleri nasıl işleyebileceğimi keşfettim. ✴️
 
-Episode 6 -> I learned create any variable as array and define variables inside them. Print these arrays for a list or select any value inside of array.
+## ✨ Proje 4: Karar Yapıları (If-Else)
+Bu proje ile if, else if ve else yapıları kullanarak karar mekanizmalarını oluşturdum. Programın farklı koşullara göre nasıl davrandığını test ettim. 🦉
 
-Episode 7 -> I learned foreach loop and practice with different practices. Because of this lesson is final episode from section 101, a project developed that takes the number of students in the classroom, takes the names are of the students, then takes their 3 exam grades and calculates the average of these grades and finally prints the student has passed or failed this lesson. This project includes of all syntax topics in section 101.
+## ✨ Proje 5: Döngüler (Loops)
+Bu projede for, while ve foreach döngüleri ile tanıştım. Döngülerle tekrarlayan işlemleri otomatikleştirme ve büyük veri gruplarını işleme becerisi kazandım. 💾
 
-Episode 8 -> I learned this episode that void and returns a parameter methods.
+## ✨ Proje 6: Metotlar (Methods)
+Bu projede kodları daha düzenli hale getirmek için metotlar kullanarak tekrarlı kodları minimize ettim. 🛠️
 
- 
+## ✨ Proje 7: Foreach Döngüsü ve Sınav Sistemi
+Foreach döngüsü ile dizi ve koleksiyonlar üzerinde daha etkili işlem yapmayı öğrendim. Ayrıca basit bir sınav sistemi tasarladım. 🎯
+
+## ✨ Proje 8: Geriye Değer Döndüren Fonksiyonlar
+Bu projede, geriye değer döndüren fonksiyonlarla nasıl çalışılacağını ve bu fonksiyonlarla daha dinamik işlemler yapmayı denedim. 🔁
