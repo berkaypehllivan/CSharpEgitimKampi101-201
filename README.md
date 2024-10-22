@@ -14,7 +14,7 @@ I learned if else and switch case desicions and making 2 basic practices. 🌱
 ## 📌 Episode 4: Loops
 I learned the working logic of for and while loops and how they can be used in which situations. 🌱
 
-## 📌 Episode 5: Practice for loops
+## 📌 Episode 5: Practice For Loops
 Practiced for and while loops with a making triangular objects with stars. 🌲
 
 ## 📌 Episode 6: Arrays
