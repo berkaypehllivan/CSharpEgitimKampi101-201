@@ -1,6 +1,6 @@
 # C# BOOTCAMP
 
-** This repository is progressing through the C# Bootcamp published by Murat Yücedağ on Youtube. You can take a look the details covered in each section at the bottom.
+**This repository is progressing through the C# Bootcamp published by Murat Yücedağ on Youtube. You can take a look the details covered in each section at the bottom.**
 
 ## 📌 Episode 1: Hello World
 First console prints. string and int variables. 🌱
