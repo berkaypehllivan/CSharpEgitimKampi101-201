@@ -24,4 +24,7 @@ I learned create any variable as array and define variables inside them. Print t
 I learned foreach loop and practice with different applications. And a project was developed that takes the number of students in the class, takes the names of the students, then take their 3 exam grades and calculates the average of these grades and finally prints the student has passed or failed this lesson. This project includes all syntax topics inside them. 🌳
 
 ## 📌 Episode 8: Methods
-I learned how to create and use void methods(which don't return any value) and methods that can return variables of any type such as string, int, bool, etc... 🌱
+I learned how to create and use void methods(which don't return any value) and methods that can return variables of any type such as string, int, bool, etc... This Lesson is end of the section 101.🌱
+
+## 📌 Episode 9: Sql Database Create & Connect With C#
+I learned create a database over Microsoft Sql Server, after that i saw frequently used data types and created a few tables as an example. Then we connected the database with C# and print all the data in the console table with Select * From TblProduct query. This episode is beginning of the section 201. 🌲
