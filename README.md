@@ -28,3 +28,6 @@ I learned how to create and use void methods(which don't return any value) and m
 
 ## 📌 Episode 9: Sql Database Create & Connect With C#
 I learned create a database over Microsoft Sql Server, after that i saw frequently used data types and created a few tables as an example. Then we connected the database with C# and print all the data in the console table with Select * From TblProduct query. This episode is beginning of the section 201. 🌲
+
+## 📌 Episode 10: Sql CRUD Commands
+This episode is continue of episode 9. I learned to use Create, Read, Update and Delete operations known as CRUD commands in SQL to make changes to database on C#. 🌳
