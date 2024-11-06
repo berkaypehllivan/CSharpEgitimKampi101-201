@@ -1,4 +1,4 @@
-# C# BOOTCAMP
+# C# BOOTCAMP SECTION 101 - 201 
 
 **This repository is progressing through the C# Bootcamp published by Murat Yücedağ on Youtube. You can take a look the details covered in each section at the bottom.**
 
